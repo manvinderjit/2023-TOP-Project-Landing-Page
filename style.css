@@ -178,3 +178,13 @@ button {
 .cta button {
     border: 1px solid white;    
 }
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    align-content: center;
+    justify-content: center;   
+    padding: 16px 0; 
+    font-size: 14px;    
+    color: #E5E7EB;
+}

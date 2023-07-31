@@ -120,3 +120,30 @@ button {
     font-size: 18px;
     margin-top: 8px;
 }
+
+.container-quote {
+    padding: 108px 14%;
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.quote-wrapper {
+    display: flex;
+    flex-direction: column;    
+    width: 840px;
+}
+
+.quote-text {
+    font-size: 36px;    
+    font-style: italic;
+    color: #1F2937;
+    font-weight: 300;        
+}
+
+.quote-sub {
+    font-weight: bold;
+    text-align: right;    
+    padding-right: 50px;
+}

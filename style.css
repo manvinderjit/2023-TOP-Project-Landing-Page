@@ -18,6 +18,8 @@ ul {
     display: flex;
     flex-direction: row;
     gap: 16px;
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .header-logo {

@@ -62,7 +62,7 @@ ul {
     
 }
 
-.hero-text, .footer-text {
+.hero-text, .cta-text {
     font-size: 18px;    
     color: #E5E7EB;
 }
@@ -148,19 +148,19 @@ button {
     padding-right: 50px;
 }
 
-.footer {
+.cta {
     background-color: #FFFFFF;
     padding: 64px 14%;    
 }
 
-.footer-wrapper {
+.cta-wrapper {
     background-color: #3882F6;    
     border-radius: 6px;
     display: flex;
     justify-content: center;    
 }
 
-.footer-container {    
+.cta-container {    
     margin: 32px 0;
     width: 840px;
     padding: 16px 32px;    
@@ -169,12 +169,12 @@ button {
     align-items: center;
 }
 
-.footer-header {
+.cta-header {
     font-size: 24px;
     font-weight: 500;
     color:#F9FAF8
 }
 
-.footer button {
+.cta button {
     border: 1px solid white;    
 }
